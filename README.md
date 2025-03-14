@@ -1,3 +1,3 @@
 # Praktikum-2
 
-test   
+praktikum 2
